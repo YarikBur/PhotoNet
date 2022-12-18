@@ -2,3 +2,4 @@
 .pio/*
 .vscode
 .vscode/*
+.pio/build/project.checksum
